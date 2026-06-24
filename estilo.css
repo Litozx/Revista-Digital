@@ -15,6 +15,13 @@ body{
 .cabecalho img{
     width: 40%;
 }
+    .cabecalho-secundario{
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+    }
+
 
 
 
