@@ -3,10 +3,8 @@ body{
     color: black;
 }
 .cabecalho{
-    background:linear-gradient(to right, #0793f0 30%, rgb(9, 104, 37) 30%);
-    display: flex;
-    flex-direction: column;
-    align-items:center;
+    background-image: url(./img/maca.jpg);
+    height: 400px;
 }
 
 .cabecalho img{
