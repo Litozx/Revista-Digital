@@ -5,8 +5,9 @@ body{
 .cabecalho{
     background-image: url(./img/maca.jpg);
     height: 400px;
+    background-repeat: no-repeat;           
+    background-size: cover;
 }
-
 .cabecalho img{
     width: 40%;
 }
