@@ -27,6 +27,9 @@ display:flex;
 padding: 32px; ;
 justify-content: center;
 align-items: center;
+background-color: cadetblue;
+font-size: 24px;
+color: beige;
 }
 
 
