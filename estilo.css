@@ -13,7 +13,7 @@ body{
 
 }
 .cabecalho img{
-    width: 40%;
+    width: 100%;
 }
     .cabecalho-secundario{
      display: flex;
@@ -31,8 +31,6 @@ background-color: cadetblue;
 font-size: 24px;
 color: drgb(123, 196, 214);
 }
-
-
 .conteudo01-img{
     width: 40% ;
 }
