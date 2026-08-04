@@ -25,11 +25,11 @@ body{
 
 .conteudo01{
 display:flex;
-padding: 32px; ;
+padding: 26px; ;
 justify-content: center;
 align-items: center;
 background-color: cadetblue;
-font-size: 60px;
+font-size: 34px;
 color: drgb(123, 196, 214);
 }
 .conteudo01-img{
