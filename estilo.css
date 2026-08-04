@@ -35,5 +35,7 @@ color: drgb(123, 196, 214);
 .conteudo01-img{
     width: 40% ;
 }
-
+.conteudo02{
+    display: flex;
+}
 
